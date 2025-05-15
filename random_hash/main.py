@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Esto es un comentario de prueba
 """
 Random Hash Generator
 
